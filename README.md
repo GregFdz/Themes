@@ -1,11 +1,11 @@
 # Ghost Themes translated by Grégoire Fernandez
 Themes you'll find here are Ghost classical themes but available for translation. They are provided with french as default alternative to english but most of the work is done. All you have to do is to take the "fr.json" file as a model for your translation.
 
-# Translation Credits :
+# Translation's credits as of march 2022 :
 - Dynamic translation from plain english made available by : Grégoire Fernandez
 - Default french translation written by : Grégoire Fernandez
 
-I didn't create these themes. They may be subject to licenses as of what the original author decided.
+I didn't create these themes. They may be subject to licenses according to what the original author decided.
 
 
 
